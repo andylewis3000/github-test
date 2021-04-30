@@ -14,6 +14,7 @@ body {
 }
 
 .container {
+  position: relative;
   width: 80%;
   margin: 0 auto;
   padding: 50px;
@@ -22,5 +23,10 @@ body {
 
 .container h1 {
   margin-bottom: 50px;
+}
+
+.container p {
+  margin-bottom: 50px;
+  text-align: left;
 }
 /*# sourceMappingURL=style.css.map */

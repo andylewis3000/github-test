@@ -1,3 +1,3 @@
-alert = () => {
-    return "Hello World!"
-};
+window.setTimeout(function(){
+    alert("Welcome to the party, pal!");
+}, 3000);
